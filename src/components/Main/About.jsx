@@ -32,7 +32,7 @@ const About = () => (
                 <h4>
                     <FormattedMessage
                         id='description'
-                        defaultMessage='My name is Nahuel61920 and I am a Front-End developer.'
+                        defaultMessage='My name is David Cole and I am a Front-End developer.'
                     />
                 </h4>
                 <p>
