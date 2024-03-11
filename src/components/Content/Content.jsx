@@ -24,7 +24,7 @@ const Content = () => (
                 <h1 data-aos="fade-up" data-aos-delay="800">
                     <FormattedMessage
                         id='name'
-                        defaultMessage='I am Nahuel61920'
+                        defaultMessage='I am David Cole'
                     />
                 </h1>
                 <p data-aos="fade-up" data-aos-delay="1000">
